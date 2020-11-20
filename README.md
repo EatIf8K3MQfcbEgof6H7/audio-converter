@@ -1,6 +1,6 @@
 # audio-converter
 
-converts mpa-files to mp3-files with tag-information
+converts wma-files to mp3-files with tag-information
 
 1. create docker image via docker 
 
